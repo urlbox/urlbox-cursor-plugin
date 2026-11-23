@@ -1,0 +1,15 @@
+{
+  "name": "urlbox",
+  "displayName": "Urlbox",
+  "version": "1.0.0",
+  "description": "Screenshot any URL or render HTML to PNG, JPEG, WebP, PDF or video with the Urlbox API",
+  "author": {
+    "name": "Urlbox",
+    "email": "support@urlbox.com"
+  },
+  "homepage": "https://urlbox.com",
+  "repository": "https://github.com/urlbox/urlbox-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["screenshot", "html-to-image", "pdf", "web-capture", "browser-rendering"],
+  "logo": "assets/logo.svg"
+}
